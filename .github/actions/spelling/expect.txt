@@ -1,0 +1,14 @@
+amd
+chmod
+evry
+evryfs
+fsdevops
+garo
+github
+google
+https
+linux
+logtostderr
+mtail
+ubuntu
+usr
